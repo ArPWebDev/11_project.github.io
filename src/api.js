@@ -13,7 +13,7 @@ export default class Api {
     }
 
     getCards = () => {
-      return fetch(this.url, {
+      return fetch(`${this.url}/cards`, {
         method: 'GET',
         headers: {
             authorization: this.authorization
