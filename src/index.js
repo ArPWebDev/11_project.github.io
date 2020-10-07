@@ -1,9 +1,9 @@
-import Api from './api.js';
-import Card from './card.js';
-import CardList from './cardList.js';
-import FormValidator from './formValidator.js';
-import Popup from './popup.js';
-import UserInfo from './userInfo.js';
+import Api from './modules/api.js';
+import Card from './modules/card.js';
+import CardList from './modules/cardList.js';
+import FormValidator from './modules/formValidator.js';
+import Popup from './modules/popup.js';
+import UserInfo from './modules/userInfo.js';
 import './pages/index.css';
 
 (function () {
