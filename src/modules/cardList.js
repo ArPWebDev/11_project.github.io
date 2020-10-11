@@ -1,4 +1,4 @@
-class CardList {
+export default class CardList {
 
   /**
    * Это конструктор класса, в него мы передаем ссылку на список,
