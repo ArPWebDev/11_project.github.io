@@ -1,5 +1,5 @@
 {
-  "name": "11_project.github.io",
+  "name": "YP_11_project",
   "version": "1.0.0",
   "description": "Учебный проект",
   "main": "./src/index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Artem74Arp/11_project.github.io.git"
+    "url": "git+https://github.com/ArPWebDev/YP_11_project.git"
   },
   "keywords": [
     "hemala30"
   ],
   "author": "Artem Petrov",
   "license": "ISC",
-  "homepage": "https://github.com/Artem74Arp/11_project.github.io",
+  "homepage": "https://github.com/ArPWebDev/YP_11_project",
   "devDependencies": {
     "@babel/cli": "^7.11.6",
     "@babel/core": "^7.11.6",
