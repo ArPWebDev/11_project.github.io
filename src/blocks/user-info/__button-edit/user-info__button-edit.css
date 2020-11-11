@@ -1,0 +1,16 @@
+.button.user-info__button-edit {
+    margin-top: 10px;
+    width: 40px;
+    height: 20px;
+    font-size: 12px;
+    display: inline-block;
+}
+.button.user-info__button-edit:hover {
+    background-color: white;
+    color:black;
+}
+@media screen and (max-width: 980px) {
+    .button.user-info__button-edit {
+      margin: 10px auto 0;
+    }
+  }
